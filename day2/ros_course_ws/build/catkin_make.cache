@@ -1,0 +1,2 @@
+testing_pub_sub
+-DCATKIN_DEVEL_PREFIX=/home/mohamedalazoni/ros_course_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mohamedalazoni/ros_course_ws/install -G Unix Makefiles

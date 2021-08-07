@@ -1,0 +1,8 @@
+prefix=/home/mohamedalazoni/ros_course_ws/devel
+
+Name: testing_pub_sub
+Description: Description of testing_pub_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
